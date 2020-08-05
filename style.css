@@ -303,6 +303,10 @@ input {
     form {
         flex-direction: column;
     }
+    
+    .logo img {
+        height: auto;
+    }
 
     .secondary-btn {
         align-self: flex-end;
