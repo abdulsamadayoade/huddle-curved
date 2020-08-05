@@ -306,6 +306,7 @@ input {
     
     .logo img {
         height: auto;
+        width: 150px;
     }
 
     .secondary-btn {
