@@ -1,4 +1,4 @@
-# Huddle landing page with curved sectionse
+# Huddle landing page with curved sections
 
 This is a coding challenge from Front End Mentor.
 
